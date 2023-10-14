@@ -1,0 +1,107 @@
+.footer-area {
+    background-color: #14adf3;
+    padding: 80px 0;
+}
+
+.footer-area, .footer-area a {
+    color: #fff;
+}
+
+.footer-wid h3 {
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+
+.social-links a {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.footer-wid ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer-wid a {
+    text-decoration: none;
+}
+
+.contact-info {
+    position: relative;
+    padding-left: 40px;
+}
+
+.contact-info .fa-solid {
+    position: absolute;
+    top: 6px;
+    left: 0;
+}
+
+.footer-subscribtion-form h4 {
+    text-transform: uppercase;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.footer-subscribtion-form input[type="email"] {
+    width: 73%;
+    color: #000;
+    border: none;
+    padding: 10px;
+}
+
+.footer-subscribtion-form input[type="submit"] {
+    color: #14adf3;
+    width: 25%;
+    text-transform: uppercase;
+    border: none;
+    font-weight: 700;
+    padding: 10px;
+    background-color:#fff;
+}
+
+.footer-subscribtion-form form {
+    margin-bottom: 10px;
+}
+
+.footer-subscribtion-form p {
+    font-size: 95%;
+}
+
+.copyright-area,.copyright-area a {
+    color: #b5b5b5;
+}
+
+.copyright-area ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.copyright-area li {
+    display: inline-block;
+}
+
+.copyright-area a {
+    text-decoration: none;
+}
+
+.copyright-area li::after {
+    content:"|";
+    padding-left: 10px;
+    padding-right: 7px;
+}
+
+.copyright-area li:last-child::after {
+    display: none;
+}
+
+.copyright-area {
+    padding: 20px 0;
+}
